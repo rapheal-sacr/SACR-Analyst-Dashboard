@@ -1,0 +1,97 @@
+{
+  "CrowdStrike": [
+    "crowdstrike.com/blog",
+    "crowdstrike.com/press-releases",
+    "ir.crowdstrike.com",
+    "crowdstrike.com/newsroom"
+  ],
+  "Microsoft": [
+    "news.microsoft.com",
+    "blogs.microsoft.com",
+    "techcommunity.microsoft.com",
+    "microsoft.com/investor",
+    "azure.microsoft.com/blog"
+  ],
+  "Palo Alto Networks": [
+    "paloaltonetworks.com/blog",
+    "paloaltonetworks.com/newsroom",
+    "paloaltonetworks.com/press-releases",
+    "investors.paloaltonetworks.com",
+    "security.paloaltonetworks.com"
+  ],
+  "Orca": [
+    "orca.security/resources/news",
+    "orca.security/blog"
+  ],
+  "Mitiga": [
+    "mitiga.io/blog",
+    "mitiga.io/news"
+  ],
+  "Wiz": [
+    "wiz.io/blog",
+    "wiz.io/newsroom"
+  ],
+  "Cyera": [
+    "cyera.com/blog",
+    "cyera.com/newsroom"
+  ],
+  "Okta": [
+    "okta.com/blog",
+    "okta.com/newsroom",
+    "investor.okta.com",
+    "sec.okta.com"
+  ],
+  "Silverfort": [
+    "silverfort.com/blog",
+    "silverfort.com/press-releases"
+  ],
+  "1Password": [
+    "1password.com/blog",
+    "1password.com/press"
+  ],
+  "Apono": [
+    "apono.io/blog",
+    "apono.io/news",
+    "docs.apono.io/changelog"
+  ],
+  "Teleport": [
+    "goteleport.com/blog",
+    "goteleport.com/news",
+    "goteleport.com/docs/changelog"
+  ],
+  "Swimlane": [
+    "swimlane.com/blog",
+    "swimlane.com/news",
+    "swimlane.com/resources/press-releases"
+  ],
+  "Cribl": [
+    "cribl.io/blog",
+    "cribl.io/press-releases",
+    "docs.cribl.io/release-notes"
+  ],
+  "Anomali": [
+    "anomali.com/blog",
+    "anomali.com/news",
+    "anomali.com/press"
+  ],
+  "Abnormal Security": [
+    "abnormalsecurity.com/blog",
+    "abnormalsecurity.com/press",
+    "abnormalsecurity.com/newsroom"
+  ],
+  "Netskope": [
+    "netskope.com/blog",
+    "netskope.com/press-releases",
+    "netskope.com/company/newsroom"
+  ],
+  "Acalvio": [
+    "acalvio.com/blog",
+    "acalvio.com/news",
+    "acalvio.com/press"
+  ],
+  "Stifel": [
+    "stifel.com/blog",
+    "stifel.com/newsroom",
+    "stifel.com/press-releases"
+  ]
+}

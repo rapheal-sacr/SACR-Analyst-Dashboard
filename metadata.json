@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Intel Dashboard",
+  "description": "A centralized intelligence dashboard providing daily cybersecurity briefings, company tracking, and research insights.",
+  "requestFramePermissions": []
+}
